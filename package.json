@@ -32,6 +32,7 @@
     "html-entities": "^1.2.0",
     "mopidy": "^0.5.0",
     "mplayer": "^2.1.0",
+    "request": "^2.81.0",
     "spotify-web-api-node": "^2.4.0",
     "winston": "^2.3.1",
     "yargs": "^6.6.0"
